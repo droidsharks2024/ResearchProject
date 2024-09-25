@@ -1,0 +1,17 @@
+Autonomous underwater vehicles (AUVs) and unmanned underwater vehicles (UUVs)
+—
+a. Are vehicles that perform underwater tasks without a tether or line to a surface ship, carrying instruments and sensors to monitor or inspect underwater environments.
+
+b. Issue: Power capacity of the vehicle’s battery remains a limiting factor and keeps their missions limited in range and duration, often as little as 24 hours.
+
+c. Potential Solution & Problem:
+	- Docking and recharge stations
+	- Problem: Underwater docking stations are under development and not yet available commercially as they lack a practical power generation source.
+
+d. Why is it needed:
+	- Powering underwater docking stations and recharging AUVs with marine energy could provide a locally generated reliable power source, smoothed for intermittency by battery backup.
+	- Underwater recharging of AUVs would reduce the need to recall vehicles to the surface as frequently; save time and resources; improve human safety on ships at sea; increase mission duration, range, and
+stealth; and reduce carbon emissions.
+
+References:
+https://www.energy.gov/sites/default/files/2019/09/f66/73355-3.pdf
